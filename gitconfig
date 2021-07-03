@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lindadao92@gmail.com
+	name = linda dao
